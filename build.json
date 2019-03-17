@@ -1,0 +1,12 @@
+{
+	"id": "matomo",
+	"version": "1.0",
+	"description": "Matomo integration for UliCMS",
+	"categories": [
+		"matomo",
+		"statistics",
+		"analytics"
+	],
+	"compatible_from": "2018.2",
+	"dependencies": []
+}
